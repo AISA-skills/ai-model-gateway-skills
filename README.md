@@ -27,8 +27,8 @@ Get an API key at [aisa.one](https://aisa.one). Keep your key out of commits, sc
 Clone this repository:
 
 ```bash
-git clone https://github.com/AISA-skills/ai-models.git
-cd ai-models
+git clone https://github.com/AISA-skills/ai-model-gateway-skills.git
+cd ai-model-gateway-skills
 ```
 
 Install one or more skills into your local agent runtime. For Codex:
@@ -55,7 +55,7 @@ Each skill contains its own workflow, safety rules, required inputs, and API not
 ## Repository Layout
 
 ```text
-ai-models/
+ai-model-gateway-skills/
 |-- README.md
 |-- LICENSE
 |-- .gitignore
